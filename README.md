@@ -11,10 +11,10 @@ https://www.loom.com/share/041e83fa0c3b4b6bb351ac95281eb124
 Parte 2:
 https://www.loom.com/share/a6475bfe373440049c82874774bc7b90
 
-Diseño:
+#### Diseño:
 [Figma](https://www.figma.com/file/qFlLfvkchzXVTKuXHA9nE5/Flujos---perfil-android?node-id=2%3A6)
 
-Data Mock:
+#### Data Mock:
 [Postman](https://www.postman.com/megabite-tech/workspace/megabite-public/overview)
 
 [Video cómo usar la data mock](https://www.loom.com/share/ddaa39ff8e0c4440b78afe1ef088a075)
