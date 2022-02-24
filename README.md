@@ -7,6 +7,7 @@ En los siguientes videos se explica más a fondo el objetivo y reglas del reto:
 
 Parte 1:
 https://www.loom.com/share/041e83fa0c3b4b6bb351ac95281eb124
+
 Parte 2:
 https://www.loom.com/share/a6475bfe373440049c82874774bc7b90
 
