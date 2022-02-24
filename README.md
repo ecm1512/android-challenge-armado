@@ -20,8 +20,12 @@ https://www.loom.com/share/a6475bfe373440049c82874774bc7b90
 [Video cómo usar la data mock](https://www.loom.com/share/ddaa39ff8e0c4440b78afe1ef088a075)
 
 ### Consideraciones
+- Se debe poder armar/seleccionar los modificadores respetando las reglas de requerido, tipo de modificador, máximos y mínimos.
+- El botón de agregar carrito debe estar deshabilitado siempre que existan elementos requeridos sin completar
+- El botón de agregar al carrito debe reflejar el total del costo del producto (algunas opciones de agregadores tienen un precio)
+
+## Reglas del reto y entrega ⏱️
 - La entrega del producto debe ser un .zip que contenga el ejecutable (.apk) listo para instalar en un dispositivo.
 - El diseño es estricto pero las animaciones son libres.
 
-## Reglas del reto ⏱️
 Tienes un tiempo de ejecución definido por **4 (cuatro) horas**. Una vez que culmines por favor envía tu comprimido con .apk y link de tu repositorio (fork del presente) al correo  [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com) con el asunto [Test Android] - Nembre y Appellido.
